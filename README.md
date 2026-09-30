@@ -240,4 +240,4 @@ This repository serves as the official landing page for ClamWin Antivirus. The s
 **Get the most recent version of ClamWin Antivirus today!**
 
 ---
-**Last updated:** 2026-09-29 20:37:00 UTC
+**Last updated:** 2026-09-30 00:15:01 UTC
